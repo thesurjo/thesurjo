@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I'm [Surya!](https://github.com/thesurjo)
+## I'm [< Surya! />](https://github.com/thesurjo) 
 
 <img align="right" alt="GIF" height="300px" src="https://i.imgur.com/Qsr1aQY.png" />
 
@@ -15,15 +15,15 @@ Transforming your vision into dynamic and efficient digital solutions. I offer e
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![PostgraSQL](https://img.shields.io/badge/-PostgraSQL-000000?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 
 ##### Some of the technologies I have worked with
 
