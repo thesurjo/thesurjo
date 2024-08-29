@@ -12,7 +12,7 @@ On the backend, I work with Django, Flask, Chalice, and Postgres to develop robu
 
 I also offer WordPress development, SEO, social media marketing, and training & consultancy services to help you achieve your digital goals.
 <div align="start">
-<a href="https://yourresume.com" target="_blank">
+<a href="https://suryabasak.netlify.app/resume" target="_blank">
   <img src="https://img.shields.io/badge/resume-%23ff6f61.svg?&style=for-the-badge&logo=readme&logoColor=white" alt="resume" style="margin-bottom: 5px;" />
 </a>
 </div>
