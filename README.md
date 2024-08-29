@@ -24,11 +24,15 @@ I also offer WordPress development, SEO, social media marketing, and training & 
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white)
 ![PostgraSQL](https://img.shields.io/badge/-PostgraSQL-000000?style=flat&logo=postgresql)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
@@ -36,8 +40,11 @@ I also offer WordPress development, SEO, social media marketing, and training & 
 
 ##### Some other technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
@@ -62,4 +69,6 @@ I also offer WordPress development, SEO, social media marketing, and training & 
 
 ---
 
-<p class="font-jetbrains text-center md:text-start">Copyright © 2024 by Surya | All Rights Reserved.</p>
+<div align="center">
+<p>Copyright © 2024 by Surya | All Rights Reserved.</p>
+</div>  
