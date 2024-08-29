@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" height="300px" src="https://i.imgur.com/Qsr1aQY.png" />
 
-## A Full-Stack Developer
+### A Full-Stack Developer
 
 
 Transforming your vision into dynamic and efficient digital solutions. I offer expertise in web and mobile app development using ReactJS, NextJS, and Flutter, alongside WordPress, SEO, and social media marketing to elevate your digital presence.
