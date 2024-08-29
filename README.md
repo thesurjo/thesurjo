@@ -67,11 +67,6 @@ I also offer WordPress development, SEO, social media marketing, and training & 
 </a>
 </div>  
 
-##### Workspace
-<p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-</p>
-
 ---
 
 <div align="center">
