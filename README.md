@@ -1,12 +1,16 @@
 ### Hi there 👋 
 # I'm [Surya!](https://github.com/thesurjo) 
 
-<img align="right" alt="GIF" height="300px" src="https://i.imgur.com/Qsr1aQY.png" />
+<img align="right" alt="GIF" height="400px" src="https://i.imgur.com/Qsr1aQY.png" />
 
 ### A Full-Stack Developer
 
 
-Transforming your vision into dynamic and efficient digital solutions. I offer expertise in web and mobile app development using ReactJS, NextJS, and Flutter, alongside WordPress, SEO, and social media marketing to elevate your digital presence.
+Hello! I'm Surya Basak, a software developer with 4+ years of experience in mobile and web development. I specialize in creating dynamic mobile apps with Flutter and high-performance web applications using ReactJS and NextJS. My expertise in HTML, CSS, and JavaScript ensures seamless user experiences.
+
+On the backend, I work with Django, Flask, Chalice, and Postgres to develop robust APIs, delivering optimal performance and flawless integration with the front end.
+
+I also offer WordPress development, SEO, social media marketing, and training & consultancy services to help you achieve your digital goals.
 
 ---
 
@@ -25,7 +29,7 @@ Transforming your vision into dynamic and efficient digital solutions. I offer e
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 
-##### Some of the technologies I have worked with
+##### Some other technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
