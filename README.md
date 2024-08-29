@@ -40,11 +40,11 @@ I also offer WordPress development, SEO, social media marketing, and training & 
 
 ##### Some other technologies I have worked with
 
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+![Netlify](https://img.shields.io/badge/-Netlify-222222?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-222222?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-222222?style=flat-square&logo=gitlab)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
