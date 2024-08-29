@@ -37,7 +37,20 @@ I also offer WordPress development, SEO, social media marketing, and training & 
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
+![Social Media Marketing](https://img.shields.io/badge/-Social%20Media%20Marketing-222222?style=flat-square&logo=Social-Media-Marketing)
 <br/>
+
+---
+
+##### Connect with me
+<div align="start">
+<a href="https://github.com/thesurjo" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/suryabasak" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
 
 ---
 
