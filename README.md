@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## I'm [Surya!](https://github.com/thesurjo) 
+# I'm [Surya!](https://github.com/thesurjo) 
 
 <img align="right" alt="GIF" height="300px" src="https://i.imgur.com/Qsr1aQY.png" />
 
