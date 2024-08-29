@@ -11,6 +11,11 @@ Hello! I'm Surya Basak, a software developer with 4+ years of experience in mobi
 On the backend, I work with Django, Flask, Chalice, and Postgres to develop robust APIs, delivering optimal performance and flawless integration with the front end.
 
 I also offer WordPress development, SEO, social media marketing, and training & consultancy services to help you achieve your digital goals.
+<div align="start">
+<a href="https://suryabasak.netlify.app/resume" target="_blank">
+  <img src="https://img.shields.io/badge/resume-%23000000.svg?&style=for-the-badge&logo=readme&logoColor=white" alt="resume" style="margin-bottom: 5px;" />
+</a>
+</div>
 
 ---
 
@@ -57,6 +62,4 @@ I also offer WordPress development, SEO, social media marketing, and training & 
 
 ---
 
-Credit: [Surya](https://github.com/thesurjo)
-
-Last edited on: 30/08/2024
+<p class="font-jetbrains text-center md:text-start">Copyright © 2024 by Surya | All Rights Reserved.</p>
