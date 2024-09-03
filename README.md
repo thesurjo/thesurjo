@@ -1,7 +1,7 @@
 ### Hi there 👋 
 # I'm [Surya!](https://github.com/thesurjo) 
 
-<img align="right" alt="GIF" height="400px" src="https://i.imgur.com/Qsr1aQY.png" />
+<img align="right" alt="GIF" width="400px" src="https://i.imgur.com/426UaGw.png" />
 
 ### A Full-Stack Developer
 
