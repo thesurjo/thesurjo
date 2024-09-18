@@ -73,11 +73,31 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
+        <strong>Seller App</strong> <br/>
+        Developed a seller app using Flutter, Dart, and Firebase. The app enables clients to manage product categories, handle vendor information, and configure access permissions.<br/>
+        <strong>Technologies Utilized:</strong><br/>
+        <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase" alt="Firebase"/>
+        <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <strong>Accounting App</strong><br/>
         Developed an accounting app for managing financial transactions, featuring QR code product addition for convenience and accuracy.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
         <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Task Management App</strong><br/>
+        Developed a task management app using Flutter, Dart, and Firebase. The app features task creation, prioritization, and tracking, along with user authentication and real-time updates.<br/>
+        <strong>Technologies Utilized:</strong><br/>
+        <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+        <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase" alt="Firebase"/>
       </td>
     </tr>
     <tr>
@@ -135,16 +155,6 @@ I also offer WordPress development, SEO, social media marketing, and training & 
         <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"/>
         <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" alt="PHP"/>
         <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Seller Website</strong> <br/>
-        Built a seller website with ReactJS, AWS Chalice, and PostgreSQL, allowing clients to manage product categories, vendors, and access permissions.<br/>
-        <strong>Technologies Utilized:</strong><br/>
-        <img src="https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=react" alt="ReactJS"/>
-        <img src="https://img.shields.io/badge/-AWS_Chalice-000000?style=flat&logo=amazon-aws" alt="AWS Chalice"/>
-        <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" alt="PostgreSQL"/>
       </td>
     </tr>
     <tr>
