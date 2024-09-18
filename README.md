@@ -101,7 +101,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <strong>Expense Manager App</strong> <a href="https://play.google.com/store/apps/details?id=com.finance.khorcha"><img src="https://img.shields.io/badge/-🔗-ffffff?style=flat&logo=🔗" alt="🔗 Icon" style="vertical-align: middle;"/></a><br/>
+        <strong>Expense Manager App</strong> <a href="https://play.google.com/store/apps/details?id=com.finance.khorcha">(Link)</a><br/>
         Created an app for tracking income and expenses, featuring an expense filter and interactive charts for visualizing financial data.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
@@ -111,7 +111,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <strong>Expense Manager App (Landing Page)</strong> <a href="https://khorcha.in/"><img src="https://img.shields.io/badge/-🔗-ffffff?style=flat&logo=🔗" alt="🔗 Icon" style="vertical-align: middle;"/></a><br/>
+        <strong>Expense Manager App (Landing Page)</strong> <a href="https://khorcha.in/">(Link)</a><br/>
         Developed a landing page showcasing features of the Expense Manager app, highlighting expense tracking, data visualization, and user convenience.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"/>
