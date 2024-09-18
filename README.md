@@ -62,7 +62,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
   <tbody>
     <!-- PROJECT:START -->
     <tr>
-      <td width="100%">
+      <td width="9999px">
         <details>
           <summary><strong>eCommerce and Social App</strong></summary>
           <p>
