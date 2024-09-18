@@ -73,7 +73,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <h5><strong>Accounting App</strong></h5><br/>
+        <strong>Accounting App</strong><br/>
         Developed an accounting app for managing financial transactions, featuring QR code product addition for convenience and accuracy.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
