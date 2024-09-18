@@ -63,109 +63,175 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     <!-- PROJECT:START -->
     <tr>
       <td>
-        <strong>eCommerce and Social App</strong> <br/>
-        Designed and implemented a comprehensive e-commerce platform with secure user sign-in, product management, and social sharing features.<br/>
-        <strong>Technologies Utilized:</strong><br/>
-        <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase" alt="Firebase"/>
-        <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+        <details>
+          <summary><strong>eCommerce and Social App</strong></summary>
+          <p>
+            Designed and implemented a comprehensive e-commerce platform with secure user sign-in, product management, and social sharing features.
+          </p>
+          <p><strong>Technologies Utilized:</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
+            <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase" alt="Firebase"/>
+            <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+          </p>
+        </details>
       </td>
     </tr>
     <tr>
       <td>
-        <strong>Seller App</strong> <br/>
-        Developed a seller app using Flutter, Dart, and Firebase. The app enables clients to manage product categories, handle vendor information, and configure access permissions.<br/>
-        <strong>Technologies Utilized:</strong><br/>
-        <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase" alt="Firebase"/>
-        <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+        <details>
+          <summary><strong>Seller App</strong></summary>
+          <p>
+            Developed a seller app using Flutter, Dart, and Firebase. The app enables clients to manage product categories, handle vendor information, and configure access permissions.
+          </p>
+          <p><strong>Technologies Utilized:</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
+            <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase" alt="Firebase"/>
+            <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+          </p>
+        </details>
       </td>
     </tr>
     <tr>
       <td>
-        <strong>Accounting App</strong><br/>
-        Developed an accounting app for managing financial transactions, featuring QR code product addition for convenience and accuracy.<br/>
-        <strong>Technologies Utilized:</strong><br/>
-        <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+        <details>
+          <summary><strong>Accounting App</strong></summary>
+          <p>
+            Developed an accounting app for managing financial transactions, featuring QR code product addition for convenience and accuracy.
+          </p>
+          <p><strong>Technologies Utilized:</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
+            <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+          </p>
+        </details>
       </td>
     </tr>
     <tr>
       <td>
-        <strong>Task Management App</strong><br/>
-        Developed a task management app using Flutter, Dart, and Firebase. The app features task creation, prioritization, and tracking, along with user authentication and real-time updates.<br/>
-        <strong>Technologies Utilized:</strong><br/>
-        <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
-        <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase" alt="Firebase"/>
+        <details>
+          <summary><strong>Task Management App</strong></summary>
+          <p>
+            Developed a task management app using Flutter, Dart, and Firebase. The app features task creation, prioritization, and tracking, along with user authentication and real-time updates.
+          </p>
+          <p><strong>Technologies Utilized:</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
+            <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+            <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase" alt="Firebase"/>
+          </p>
+        </details>
       </td>
     </tr>
     <tr>
       <td>
-        <strong>NFT Marketplace App</strong><br/>
-        Created an NFT platform for connecting Cardano wallets, exploring NFTs, and securely buying and selling NFTs using blockchain technology.<br/>
-        <strong>Technologies Utilized:</strong><br/>
-        <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+        <details>
+          <summary><strong>NFT Marketplace App</strong></summary>
+          <p>
+            Created an NFT platform for connecting Cardano wallets, exploring NFTs, and securely buying and selling NFTs using blockchain technology.
+          </p>
+          <p><strong>Technologies Utilized:</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
+            <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+          </p>
+        </details>
       </td>
     </tr>
     <tr>
       <td>
-        <strong>SMS App</strong><br/>
-        Developed an SMS app for sending and receiving text messages. Integrated features include notification replies and contact management.<br/>
-        <strong>Technologies Utilized:</strong><br/>
-        <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+        <details>
+          <summary><strong>SMS App</strong></summary>
+          <p>
+            Developed an SMS app for sending and receiving text messages. Integrated features include notification replies and contact management.
+          </p>
+          <p><strong>Technologies Utilized:</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
+            <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+          </p>
+        </details>
       </td>
     </tr>
     <tr>
       <td>
-        <strong>Fitness Website</strong><br/>
-        Developed a fitness website with dynamic content management, event registration through EventBrite, and venue booking via PeerSpace.<br/>
-        <strong>Technologies Utilized:</strong><br/>
-        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/-EventBrite_API-000000?style=flat" alt="EventBrite API"/>
-        <img src="https://img.shields.io/badge/-Strapi-000000?style=flat&logo=strapi" alt="Strapi"/>
+        <details>
+          <summary><strong>Fitness Website</strong></summary>
+          <p>
+            Developed a fitness website with dynamic content management, event registration through EventBrite, and venue booking via PeerSpace.
+          </p>
+          <p><strong>Technologies Utilized:</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"/>
+            <img src="https://img.shields.io/badge/-EventBrite_API-000000?style=flat" alt="EventBrite API"/>
+            <img src="https://img.shields.io/badge/-Strapi-000000?style=flat&logo=strapi" alt="Strapi"/>
+          </p>
+        </details>
       </td>
     </tr>
     <tr>
       <td>
-        <strong>Expense Manager App</strong> <a href="https://play.google.com/store/apps/details?id=com.finance.khorcha">(Link)</a><br/>
-        Created an app for tracking income and expenses, featuring an expense filter and interactive charts for visualizing financial data.<br/>
-        <strong>Technologies Utilized:</strong><br/>
-        <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
-        <img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite" alt="SQLite"/>
+        <details>
+          <summary><strong>Expense Manager App</strong> <a href="https://play.google.com/store/apps/details?id=com.finance.khorcha">(Link)</a></summary>
+          <p>
+            Created an app for tracking income and expenses, featuring an expense filter and interactive charts for visualizing financial data.
+          </p>
+          <p><strong>Technologies Utilized:</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
+            <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+            <img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite" alt="SQLite"/>
+          </p>
+        </details>
       </td>
     </tr>
     <tr>
       <td>
-        <strong>Expense Manager App (Landing Page)</strong> <a href="https://khorcha.in/">(Link)</a><br/>
-        Developed a landing page showcasing features of the Expense Manager app, highlighting expense tracking, data visualization, and user convenience.<br/>
-        <strong>Technologies Utilized:</strong><br/>
-        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss" alt="TailwindCSS"/>
+        <details>
+          <summary><strong>Expense Manager App (Landing Page)</strong> <a href="https://khorcha.in/">(Link)</a></summary>
+          <p>
+            Developed a landing page showcasing features of the Expense Manager app, highlighting expense tracking, data visualization, and user convenience.
+          </p>
+          <p><strong>Technologies Utilized:</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"/>
+            <img src="https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss" alt="TailwindCSS"/>
+          </p>
+        </details>
       </td>
     </tr>
     <tr>
       <td>
-        <strong>TimeSheet Plugin</strong><br/>
-        Developed a WordPress plugin for managing employees, clients, and projects, with efficient time tracking and comprehensive, filterable reports.<br/>
-        <strong>Technologies Utilized:</strong><br/>
-        <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"/>
-        <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" alt="PHP"/>
-        <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript"/>
+        <details>
+          <summary><strong>TimeSheet Plugin</strong></summary>
+          <p>
+            Developed a WordPress plugin for managing employees, clients, and projects, with efficient time tracking and comprehensive, filterable reports.
+          </p>
+          <p><strong>Technologies Utilized:</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"/>
+            <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" alt="PHP"/>
+            <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript"/>
+          </p>
+        </details>
       </td>
     </tr>
     <tr>
       <td>
-        <strong>Custom WordPress Page Design & Issue Fixing</strong><br/>
-        Enhanced WordPress websites by resolving plugin issues, configuring Advanced Custom Fields, and creating tailored plugins for specific needs.<br/>
-        <strong>Technologies Utilized:</strong><br/>
-        <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"/>
-        <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" alt="PHP"/>
-        <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/-ACF-000000?style=flat&logo=advanced-custom-fields" alt="ACF"/>
+        <details>
+          <summary><strong>Custom WordPress Page Design & Issue Fixing</strong></summary>
+          <p>
+            Enhanced WordPress websites by resolving plugin issues, configuring Advanced Custom Fields, and creating tailored plugins for specific needs.
+          </p>
+          <p><strong>Technologies Utilized:</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"/>
+            <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" alt="PHP"/>
+            <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript"/>
+            <img src="https://img.shields.io/badge/-ACF-000000?style=flat&logo=advanced-custom-fields" alt="ACF"/>
+          </p>
+        </details>
       </td>
     </tr>
     <!-- PROJECT:END -->
