@@ -63,7 +63,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     <!-- PROJECT:START -->
     <tr>
       <td>
-        <a href="https://link-to-project.com" style="text-decoration: none; color: inherit;"><strong>eCommerce and Social App</strong></a><br/>
+        <a href="#" style="text-decoration: none; color: inherit;"><strong>eCommerce and Social App</strong></a><br/>
         Designed and implemented a comprehensive e-commerce platform with secure user sign-in, product management, and social sharing features.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
@@ -73,7 +73,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="https://link-to-project.com" style="text-decoration: none; color: inherit;"><strong>Accounting App</strong></a><br/>
+        <a href="#" style="text-decoration: none; color: inherit;"><strong>Accounting App</strong></a><br/>
         Developed an accounting app for managing financial transactions, featuring QR code product addition for convenience and accuracy.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
@@ -82,7 +82,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="https://link-to-project.com" style="text-decoration: none; color: inherit;"><strong>NFT Marketplace App</strong></a><br/>
+        <a href="#" style="text-decoration: none; color: inherit;"><strong>NFT Marketplace App</strong></a><br/>
         Created an NFT platform for connecting Cardano wallets, exploring NFTs, and securely buying and selling NFTs using blockchain technology.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
@@ -91,7 +91,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="https://link-to-project.com" style="text-decoration: none; color: inherit;"><strong>Fitness Website</strong></a><br/>
+        <a href="#" style="text-decoration: none; color: inherit;"><strong>Fitness Website</strong></a><br/>
         Developed a fitness website with dynamic content management, event registration through EventBrite, and venue booking via PeerSpace.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"/>
@@ -120,7 +120,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="https://link-to-project.com" style="text-decoration: none; color: inherit;"><strong>TimeSheet Plugin</strong></a><br/>
+        <a href="#" style="text-decoration: none; color: inherit;"><strong>TimeSheet Plugin</strong></a><br/>
         Developed a WordPress plugin for managing employees, clients, and projects, with efficient time tracking and comprehensive, filterable reports.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"/>
@@ -130,7 +130,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="https://link-to-project.com" style="text-decoration: none; color: inherit;"><strong>Seller Website</strong></a><br/>
+        <a href="#" style="text-decoration: none; color: inherit;"><strong>Seller Website</strong></a><br/>
         Built a seller website with ReactJS, AWS Chalice, and PostgreSQL, allowing clients to manage product categories, vendors, and access permissions.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=react" alt="ReactJS"/>
@@ -140,7 +140,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="https://link-to-project.com" style="text-decoration: none; color: inherit;"><strong>Custom WordPress Page Design & Issue Fixing</strong></a><br/>
+        <a href="#" style="text-decoration: none; color: inherit;"><strong>Custom WordPress Page Design & Issue Fixing</strong></a><br/>
         Enhanced WordPress websites by resolving plugin issues, configuring Advanced Custom Fields, and creating tailored plugins for specific needs.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"/>
