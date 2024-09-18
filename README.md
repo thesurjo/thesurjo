@@ -91,6 +91,15 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
+        <strong>SMS App</strong><br/>
+        Developed an SMS app for sending and receiving text messages. Integrated features include notification replies and contact management.<br/>
+        <strong>Technologies Utilized:</strong><br/>
+        <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <strong>Fitness Website</strong><br/>
         Developed a fitness website with dynamic content management, event registration through EventBrite, and venue booking via PeerSpace.<br/>
         <strong>Technologies Utilized:</strong><br/>
