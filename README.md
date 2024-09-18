@@ -63,7 +63,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     <!-- PROJECT:START -->
     <tr>
       <td>
-        <strong><a href="#" style="text-decoration: none;">eCommerce and Social App</a></strong> <br/>
+        <strong>eCommerce and Social App</strong> <br/>
         Designed and implemented a comprehensive e-commerce platform with secure user sign-in, product management, and social sharing features.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
@@ -73,7 +73,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <strong><a href="#" style="text-decoration: none;">Accounting App</a></strong> <br/>
+        <strong>Accounting App</strong><br/>
         Developed an accounting app for managing financial transactions, featuring QR code product addition for convenience and accuracy.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
@@ -82,7 +82,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <strong><a href="#" style="text-decoration: none;">NFT Marketplace App</a></strong><br/>
+        <strong>NFT Marketplace App</strong><br/>
         Created an NFT platform for connecting Cardano wallets, exploring NFTs, and securely buying and selling NFTs using blockchain technology.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
@@ -91,7 +91,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <strong><a href="#" style="text-decoration: none;">Fitness Website</a></strong><br/>
+        <strong>Fitness Website</strong><br/>
         Developed a fitness website with dynamic content management, event registration through EventBrite, and venue booking via PeerSpace.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"/>
@@ -101,7 +101,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <strong><a href="https://play.google.com/store/apps/details?id=com.finance.khorcha" style="text-decoration: none;">Expense Manager App</a></strong> <a href="https://play.google.com/store/apps/details?id=com.finance.khorcha"><img src="https://img.shields.io/badge/-🔗-ffffff?style=flat&logo=🔗" alt="🔗 Icon" style="vertical-align: middle;"/></a><br/>
+        <strong>Expense Manager App</strong> <a href="https://play.google.com/store/apps/details?id=com.finance.khorcha"><img src="https://img.shields.io/badge/-🔗-ffffff?style=flat&logo=🔗" alt="🔗 Icon" style="vertical-align: middle;"/></a><br/>
         Created an app for tracking income and expenses, featuring an expense filter and interactive charts for visualizing financial data.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
@@ -111,7 +111,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <strong><a href="https://khorcha.in/" style="text-decoration: none;">Expense Manager App (Landing Page)</a></strong> <a href="https://khorcha.in/"><img src="https://img.shields.io/badge/-🔗-ffffff?style=flat&logo=🔗" alt="🔗 Icon" style="vertical-align: middle;"/></a><br/>
+        <strong>Expense Manager App (Landing Page)</strong> <a href="https://khorcha.in/"><img src="https://img.shields.io/badge/-🔗-ffffff?style=flat&logo=🔗" alt="🔗 Icon" style="vertical-align: middle;"/></a><br/>
         Developed a landing page showcasing features of the Expense Manager app, highlighting expense tracking, data visualization, and user convenience.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"/>
@@ -120,7 +120,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <strong><a href="#" style="text-decoration: none;">TimeSheet Plugin</a></strong><br/>
+        <strong>TimeSheet Plugin</strong><br/>
         Developed a WordPress plugin for managing employees, clients, and projects, with efficient time tracking and comprehensive, filterable reports.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"/>
@@ -130,7 +130,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <strong><a href="#" style="text-decoration: none;">Seller Website</a></strong> <br/>
+        <strong>Seller Website</strong> <br/>
         Built a seller website with ReactJS, AWS Chalice, and PostgreSQL, allowing clients to manage product categories, vendors, and access permissions.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=react" alt="ReactJS"/>
@@ -140,7 +140,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <strong><a href="#" style="text-decoration: none;">Custom WordPress Page Design & Issue Fixing</a></strong><br/>
+        <strong>Custom WordPress Page Design & Issue Fixing</strong><br/>
         Enhanced WordPress websites by resolving plugin issues, configuring Advanced Custom Fields, and creating tailored plugins for specific needs.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"/>
