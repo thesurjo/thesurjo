@@ -164,8 +164,8 @@ I also offer WordPress development, SEO, social media marketing, and training & 
 <a href="mailto:suryabasak10@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
 </a>
-<a href="https://🔗edin.com/in/suryabasak" target="_blank">
-<img src=https://img.shields.io/badge/🔗edin-%231E77B5.svg?&style=for-the-badge&logo=🔗edin&logoColor=white alt=🔗edin style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/suryabasak" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
 
