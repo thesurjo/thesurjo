@@ -56,103 +56,105 @@ I also offer WordPress development, SEO, social media marketing, and training & 
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+### Recent Projects
 
-  <div style="background: white; border: 1px solid #ccc; border-radius: 24px; padding: 20px; width: 30%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    <h3>eCommerce and Social App</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 24px; padding: 20px;">
+    <h4><a href="#" style="text-decoration: none; color: black;">eCommerce and Social App</a></h4>
     <p>Designed and implemented a comprehensive e-commerce platform with secure user sign-in, product management, and social sharing features.</p>
-    <strong>Technologies Utilized:</strong>
-    <div>
+    <p><strong>Technologies Utilized:</strong></p>
+    <p>
       <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter">
       <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase" alt="Firebase">
       <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart">
-    </div>
+    </p>
   </div>
 
-  <div style="background: white; border: 1px solid #ccc; border-radius: 24px; padding: 20px; width: 30%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    <h3>Accounting App</h3>
+  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 24px; padding: 20px;">
+    <h4><a href="#" style="text-decoration: none; color: black;">Accounting App</a></h4>
     <p>Developed an accounting app for managing financial transactions, featuring QR code product addition for convenience and accuracy.</p>
-    <strong>Technologies Utilized:</strong>
-    <div>
+    <p><strong>Technologies Utilized:</strong></p>
+    <p>
       <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter">
       <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart">
-    </div>
+    </p>
   </div>
 
-  <div style="background: white; border: 1px solid #ccc; border-radius: 24px; padding: 20px; width: 30%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    <h3>NFT Marketplace App</h3>
+  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 24px; padding: 20px;">
+    <h4><a href="#" style="text-decoration: none; color: black;">NFT Marketplace App</a></h4>
     <p>Created an NFT platform for connecting Cardano wallets, exploring NFTs, and securely buying and selling NFTs using blockchain technology.</p>
-    <strong>Technologies Utilized:</strong>
-    <div>
+    <p><strong>Technologies Utilized:</strong></p>
+    <p>
       <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter">
       <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart">
-    </div>
+    </p>
   </div>
 
-  <div style="background: white; border: 1px solid #ccc; border-radius: 24px; padding: 20px; width: 30%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    <h3>Fitness Website</h3>
+  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 24px; padding: 20px;">
+    <h4><a href="#" style="text-decoration: none; color: black;">Fitness Website</a></h4>
     <p>Developed a fitness website with dynamic content management, event registration through EventBrite, and venue booking via PeerSpace.</p>
-    <strong>Technologies Utilized:</strong>
-    <div>
+    <p><strong>Technologies Utilized:</strong></p>
+    <p>
       <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js">
       <img src="https://img.shields.io/badge/-EventBrite_API-000000?style=flat" alt="EventBrite API">
       <img src="https://img.shields.io/badge/-Strapi-000000?style=flat&logo=strapi" alt="Strapi">
-    </div>
+    </p>
   </div>
 
-  <div style="background: white; border: 1px solid #ccc; border-radius: 24px; padding: 20px; width: 30%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    <h3>Expense Manager App</h3>
+  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 24px; padding: 20px;">
+    <h4><a href="https://play.google.com/store/apps/details?id=com.finance.khorcha" style="text-decoration: none; color: black;">Expense Manager App</a></h4>
     <p>Created an app for tracking income and expenses, featuring an expense filter and interactive charts for visualizing financial data.</p>
-    <strong>Technologies Utilized:</strong>
-    <div>
+    <p><strong>Technologies Utilized:</strong></p>
+    <p>
       <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter">
       <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart">
       <img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite" alt="SQLite">
-    </div>
+    </p>
   </div>
 
-  <div style="background: white; border: 1px solid #ccc; border-radius: 24px; padding: 20px; width: 30%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    <h3>Expense Manager App (Landing Page)</h3>
+  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 24px; padding: 20px;">
+    <h4><a href="https://khorcha.in/" style="text-decoration: none; color: black;">Expense Manager App (Landing Page)</a></h4>
     <p>Developed a landing page showcasing features of the Expense Manager app, highlighting expense tracking, data visualization, and user convenience.</p>
-    <strong>Technologies Utilized:</strong>
-    <div>
+    <p><strong>Technologies Utilized:</strong></p>
+    <p>
       <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js">
       <img src="https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss" alt="TailwindCSS">
-    </div>
+    </p>
   </div>
 
-  <div style="background: white; border: 1px solid #ccc; border-radius: 24px; padding: 20px; width: 30%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    <h3>TimeSheet Plugin</h3>
+  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 24px; padding: 20px;">
+    <h4><a href="#" style="text-decoration: none; color: black;">TimeSheet Plugin</a></h4>
     <p>Developed a WordPress plugin for managing employees, clients, and projects, with efficient time tracking and comprehensive, filterable reports.</p>
-    <strong>Technologies Utilized:</strong>
-    <div>
+    <p><strong>Technologies Utilized:</strong></p>
+    <p>
       <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress">
       <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" alt="PHP">
       <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript">
-    </div>
+    </p>
   </div>
 
-  <div style="background: white; border: 1px solid #ccc; border-radius: 24px; padding: 20px; width: 30%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    <h3>Seller Website</h3>
-    <p>Built a seller website with ReactJS, AWS Chalice, and PostgreSQL, allowing clients to manage product categories, vendors, and access permissions.</p>
-    <strong>Technologies Utilized:</strong>
-    <div>
+  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 24px; padding: 20px;">
+    <h4><a href="#" style="text-decoration: none; color: black;">Seller Website</a></h4>
+    <p>Builts a seller website with ReactJS, AWS Chalice, and PostgreSQL, allowing clients to manage product categories, vendors, and access permissions.</p>
+    <p><strong>Technologies Utilized:</strong></p>
+    <p>
       <img src="https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=react" alt="ReactJS">
       <img src="https://img.shields.io/badge/-AWS_Chalice-000000?style=flat&logo=amazon-aws" alt="AWS Chalice">
       <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" alt="PostgreSQL">
-    </div>
+    </p>
   </div>
 
-  <div style="background: white; border: 1px solid #ccc; border-radius: 24px; padding: 20px; width: 30%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    <h3>Custom WordPress Page Design & Issue Fixing</h3>
+  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 24px; padding: 20px;">
+    <h4><a href="#" style="text-decoration: none; color: black;">Custom WordPress Page Design & Issue Fixing</a></h4>
     <p>Enhanced WordPress websites by resolving plugin issues, configuring Advanced Custom Fields, and creating tailored plugins for specific needs.</p>
-    <strong>Technologies Utilized:</strong>
-    <div>
+    <p><strong>Technologies Utilized:</strong></p>
+    <p>
       <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress">
       <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" alt="PHP">
       <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript">
       <img src="https://img.shields.io/badge/-ACF-000000?style=flat&logo=advanced-custom-fields" alt="ACF">
-    </div>
+    </p>
   </div>
 
 </div>
