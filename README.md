@@ -63,7 +63,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     <!-- PROJECT:START -->
     <tr>
       <td>
-        <a href="#" style="text-decoration: none; color: inherit;"><strong>eCommerce and Social App</strong></a><br/>
+        <strong><a href="#" style="text-decoration: none;">eCommerce and Social App</a></strong> <br/>
         Designed and implemented a comprehensive e-commerce platform with secure user sign-in, product management, and social sharing features.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
@@ -73,7 +73,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="#" style="text-decoration: none; color: inherit;"><strong>Accounting App</strong></a><br/>
+        <strong><a href="#" style="text-decoration: none;">Accounting App</a></strong> <br/>
         Developed an accounting app for managing financial transactions, featuring QR code product addition for convenience and accuracy.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
@@ -82,7 +82,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="#" style="text-decoration: none; color: inherit;"><strong>NFT Marketplace App</strong></a><br/>
+        <strong><a href="#" style="text-decoration: none;">NFT Marketplace App</a></strong><br/>
         Created an NFT platform for connecting Cardano wallets, exploring NFTs, and securely buying and selling NFTs using blockchain technology.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
@@ -91,7 +91,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="#" style="text-decoration: none; color: inherit;"><strong>Fitness Website</strong></a><br/>
+        <strong><a href="#" style="text-decoration: none;">Fitness Website</a></strong><br/>
         Developed a fitness website with dynamic content management, event registration through EventBrite, and venue booking via PeerSpace.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"/>
@@ -101,7 +101,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="https://play.google.com/store/apps/details?id=com.finance.khorcha" style="text-decoration: none; color: inherit;"><strong>Expense Manager App</strong></a><br/>
+        <strong><a href="https://play.google.com/store/apps/details?id=com.finance.khorcha" style="text-decoration: none;">Expense Manager App</a></strong> <a href="https://play.google.com/store/apps/details?id=com.finance.khorcha"><img src="https://img.shields.io/badge/-🔗-ffffff?style=flat&logo=🔗" alt="🔗 Icon" style="vertical-align: middle;"/></a><br/>
         Created an app for tracking income and expenses, featuring an expense filter and interactive charts for visualizing financial data.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
@@ -111,7 +111,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="https://khorcha.in/" style="text-decoration: none; color: inherit;"><strong>Expense Manager App (Landing Page)</strong></a><br/>
+        <strong><a href="https://khorcha.in/" style="text-decoration: none;">Expense Manager App (Landing Page)</a></strong> <a href="https://khorcha.in/"><img src="https://img.shields.io/badge/-🔗-ffffff?style=flat&logo=🔗" alt="🔗 Icon" style="vertical-align: middle;"/></a><br/>
         Developed a landing page showcasing features of the Expense Manager app, highlighting expense tracking, data visualization, and user convenience.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"/>
@@ -120,7 +120,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="#" style="text-decoration: none; color: inherit;"><strong>TimeSheet Plugin</strong></a><br/>
+        <strong><a href="#" style="text-decoration: none;">TimeSheet Plugin</a></strong><br/>
         Developed a WordPress plugin for managing employees, clients, and projects, with efficient time tracking and comprehensive, filterable reports.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"/>
@@ -130,7 +130,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="#" style="text-decoration: none; color: inherit;"><strong>Seller Website</strong></a><br/>
+        <strong><a href="#" style="text-decoration: none;">Seller Website</a></strong> <br/>
         Built a seller website with ReactJS, AWS Chalice, and PostgreSQL, allowing clients to manage product categories, vendors, and access permissions.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=react" alt="ReactJS"/>
@@ -140,7 +140,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     </tr>
     <tr>
       <td>
-        <a href="#" style="text-decoration: none; color: inherit;"><strong>Custom WordPress Page Design & Issue Fixing</strong></a><br/>
+        <strong><a href="#" style="text-decoration: none;">Custom WordPress Page Design & Issue Fixing</a></strong><br/>
         Enhanced WordPress websites by resolving plugin issues, configuring Advanced Custom Fields, and creating tailored plugins for specific needs.<br/>
         <strong>Technologies Utilized:</strong><br/>
         <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"/>
@@ -164,8 +164,8 @@ I also offer WordPress development, SEO, social media marketing, and training & 
 <a href="mailto:suryabasak10@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/suryabasak" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://🔗edin.com/in/suryabasak" target="_blank">
+<img src=https://img.shields.io/badge/🔗edin-%231E77B5.svg?&style=for-the-badge&logo=🔗edin&logoColor=white alt=🔗edin style="margin-bottom: 5px;" />
 </a>
 </div>  
 
