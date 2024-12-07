@@ -197,6 +197,7 @@ I also offer WordPress development, SEO, social media marketing, and training & 
           <p>
             <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"/>
             <img src="https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss" alt="TailwindCSS"/>
+            <img src="https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin" alt="kotlin"/>
           </p>
         </details>
       </td>
