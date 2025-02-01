@@ -174,6 +174,22 @@ I also offer WordPress development, SEO, social media marketing, and training & 
     <tr>
       <td>
         <details>
+          <summary><strong>GYM App</strong></summary>
+          <p>
+           Developed a gym management app enabling users to handle subscriptions and attendance efficiently
+          </p>
+          <p><strong>Technologies Utilized:</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter"/>
+            <img src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart" alt="Dart"/>
+            <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase" alt="Firebase"/>
+          </p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <details>
           <summary><strong>Expense Manager App</strong> <a href="https://play.google.com/store/apps/details?id=com.finance.khorcha">(Link)</a></summary>
           <p>
             Created an app for tracking income and expenses, featuring an expense filter and interactive charts for visualizing financial data.
